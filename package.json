@@ -19,7 +19,7 @@
     "gulp-concat": "latest",
     "gulp-plumber": "latest",
     "gulp-util": "latest",
-    "pug": "^2.0.0-rc.4"
+    "pug": "^3.0.1"
   },
   "dependencies": {
     "gulp-run-command": "0.0.9",
